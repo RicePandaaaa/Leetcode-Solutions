@@ -8,7 +8,7 @@ This repository stores all my solutions for each Leetcode problem that I attempt
 
 ## Finished Problems
 
-88. <a href="">Merge Sorted Array</a> (<a href="https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150">Problem Statement</a>)
+88. <a href="https://github.com/RicePandaaaa/Leetcode-Solutions/tree/main/88.%20Merge%20Sorted%20Array">Merge Sorted Array</a> (<a href="https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150">Problem Statement</a>)
 
 ## Finished Study Plans
 
