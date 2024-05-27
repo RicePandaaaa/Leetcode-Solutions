@@ -4,7 +4,7 @@ This repository stores all my solutions for each Leetcode problem that I attempt
 
 ## Current Study Plan
 
-1. https://leetcode.com/studyplan/top-interview-150/
+https://leetcode.com/studyplan/top-interview-150/
 
 ## Finished Problems
 
