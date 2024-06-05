@@ -47,5 +47,3 @@ class Solution:
 
                 # Regardless, a number was processed
                 numbers_processed += 1
-
-
